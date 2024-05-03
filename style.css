@@ -1,0 +1,55 @@
+.c{
+    background-color: chocolate;
+    position: absolute;
+    height: 20px;
+    width: 55px;
+    top: 10%;
+    left: 20%;
+}
+
+
+.first{
+    width: 250px;
+    height: 160px;
+    border: 3px solid rgb(24, 24, 23);
+    position: absolute;
+    top: 10%;
+}
+
+
+
+.b{
+    background-color: red;
+    position: absolute;
+    height: 20px;
+    width: 48px;
+    top: 10%;
+    left: 50%;
+}
+
+.second{
+    width: 250px;
+    height: 160px;
+    border: 3px solid rgb(21, 21, 20);
+    position: absolute;
+    top: 10%;
+    left: 30%;
+}
+
+.s{
+    background-color: rgb(178, 157, 125);
+    position: absolute;
+    height: 20px;
+    width: 48px;
+    top: 40%;
+    left: 49.5%;
+}
+
+.third{
+    width: 550px;
+    height: 160px;
+    border: 3px solid rgb(21, 21, 20);
+    position: absolute;
+    top: 40%;
+    left: 1%;
+}
