@@ -1,3 +1,15 @@
+.a{
+    background-color: darkgrey;
+    position: absolute;
+    height: 30px;
+    width: 100%;
+    top: 0.2%;
+    left: 0.1%;
+}
+
+
+
+
 .c{
     background-color: chocolate;
     position: absolute;
